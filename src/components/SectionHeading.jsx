@@ -1,0 +1,1 @@
+export default function SectionHeading({kicker,title,description,light=false}) { return <div className={`section-heading ${light?'light':''}`}><span className="eyebrow">{kicker}</span><h2>{title}</h2>{description&&<p>{description}</p>}</div>; }
