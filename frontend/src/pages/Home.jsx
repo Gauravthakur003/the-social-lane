@@ -250,7 +250,7 @@ export default function Home() {
               <Sparkles />
             </motion.div>
 
-            <div className="art-index">01 / THE SOCIAL LANE</div>
+          
           </motion.div>
         </div>
       </section>

@@ -331,6 +331,14 @@
     margin-top: 34px;
   }
 
+  @media (max-width: 768px) {
+  .hero-proof {
+    margin-top: 34px;
+    text-align: left;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+}
   .hero-social-platforms {
     display: flex;
     align-items: center;

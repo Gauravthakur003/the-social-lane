@@ -223,10 +223,6 @@ export default function Navbar() {
                           : "mobile-nav-link"
                       }
                     >
-                      <span className="mobile-nav-number">
-                        0{index + 1}
-                      </span>
-
                       <span className="mobile-nav-label">
                         {label}
                       </span>
